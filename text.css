@@ -1,0 +1,68 @@
+@charset "UTF-8";
+/* CSS Document */
+* {
+    margin: 0 auto;
+}
+h2 {
+    text-align: center;
+    margin-top: 50px;
+}
+body {
+  font-family: "Noto Sans JP", "游ゴシック", YuGothic, "Helvetica", "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, "Helvetica Neue", Arial, sans-serif
+}
+
+table, th, td {
+  border-collapse: collapse;
+  border: 1px solid #ccc;
+  line-height: 1.5;
+}
+
+table.form th {
+  width: 150px;
+  padding: 10px;
+  font-weight: bold;
+  vertical-align: top;
+  background: #3f3f3f;
+  color: #ffffff;
+}
+table.form td {
+/*  width: 350px;*/
+  padding: 10px;
+  vertical-align: top;
+}
+
+#kozin {
+    font-size: xx-small;
+}
+
+#sentaku {
+    width: 200px;
+    vertical-align: middle;
+}
+
+.ryoukin {
+    font-size: 15px;
+    font-style: normal;
+}
+
+.lebel {
+    font-size: 20px;
+    font-style: normal;
+}
+
+#check {
+    width: 350px;
+    vertical-align: middle;
+}
+#waribiki {
+    text-align: center;
+}
+
+a {
+    color:white;
+}
+
+.backnext {
+    padding: 0;
+    width: 36.33px;
+}
